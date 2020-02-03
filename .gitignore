@@ -218,3 +218,7 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/osx,rider,linux,unity,windows,visualstudiocode
 .idea
+Assets/StompyRobot
+Assets/StompyRobot.meta
+Screenshot_20200203-220521_SafeArea.jpg
+Screenshot_20200203-220528_SafeArea.jpg
